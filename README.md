@@ -31,11 +31,11 @@
 * 🗣️ LLAMAR AL PASAJERO
 
 ```mermaid
-graph LR
-    A[📞 LLAMAR AL PASAJERO] --> B[🏠 CASA]
-    B --> C[🗺️ ZONAS]
-    C --> D[🚕 SERVICIO]
-    D --> E[🗣️ LLAMAR AL PASAJERO]
+graph TD
+    E[🗣️ LLAMAR AL PASAJERO] --> D[🚕 SERVICIO]
+    D --> C[🗺️ ZONAS]
+    C --> B[🏠 CASA]
+    B --> A[📞 LLAMAR AL PASAJERO]
 ```
 
 **TAXI CALLER:**
