@@ -45,7 +45,7 @@ graph TD
 * 🏁 FINALIZAR TURNO
 
 ```mermaid
-graph LR
+graph TD
     A[⏱️ INICIAR TURNO] --> B[📄 VER SERVICIOS]
     B --> C[🏁 FINALIZAR TURNO]
 ```
