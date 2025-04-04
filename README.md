@@ -44,6 +44,12 @@ graph LR
 * 📄 VER SERVICIOS
 * 🏁 FINALIZAR TURNO
 
+```mermaid
+graph LR
+    A[⏱️ INICIAR TURNO] --> B[📄 VER SERVICIOS]
+    B --> C[🏁 FINALIZAR TURNO]
+```
+
 **COMUNICACIÓN:**
 
 * VIA TELEGRAM
