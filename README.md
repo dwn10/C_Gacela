@@ -56,8 +56,8 @@ graph LR
 
 **EJEMPLO:**
 
-* `84 INICIA TURNO`
-* `84 FINALIZA TURNO`
+* 🌞 `84 INICIA TURNO`
+* 🌑 `84 FINALIZA TURNO`
 
 ### 🚕 COBRO CARRERA
 
